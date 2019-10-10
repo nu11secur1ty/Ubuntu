@@ -1,4 +1,4 @@
-# From bg tp gr and... ;)
+# From bg tо gr and... ;)
 ```bash
 sed -i 's/bg.archive.ubuntu.com/gr.archive.ubuntu.com/' sources.list
 ```
