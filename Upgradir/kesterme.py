@@ -3,7 +3,7 @@
 # UP to last DEV Env
 import os
 
-os.system("sed -i 's/Prompt=lts/Prompt=normal/g' /etc/update-manager/release-upgrades")
+# os.system("sed -i 's/Prompt=lts/Prompt=normal/g' /etc/update-manager/release-upgrades")
 os.system("apt update -y")
 os.system("apt upgrade -y")
 os.system("apt dist-upgrade -y")
