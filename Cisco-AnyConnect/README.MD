@@ -1,5 +1,7 @@
 ## Install Open Connect
 ```bash
+# Packages
+apt install lib32z1 lib32ncurses5
 apt install openconnect network-manager-openconnect-gnome
 apt install openconnect
 
