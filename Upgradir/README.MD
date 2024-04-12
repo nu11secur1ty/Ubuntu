@@ -5,4 +5,8 @@
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/kesterme.py | python3
 ```
+- Bash
+```bash
+curl -s curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/kesterme.py | sh
+```
 That's it, you already did ;)
