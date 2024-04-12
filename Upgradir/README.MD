@@ -7,6 +7,6 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/ke
 ```
 - Bash
 ```bash
-curl -s curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/kesterme.py | sh
+curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/kelemedev.sh | sh
 ```
 That's it, you already did ;)
