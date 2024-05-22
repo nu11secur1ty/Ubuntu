@@ -1,4 +1,4 @@
-Use:
+### full version of GNOME Desktop:
 ```
 apt install ubuntu-gnome-desktop
 ```
