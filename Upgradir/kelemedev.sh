@@ -10,5 +10,6 @@ apt dist-upgrade -y
 apt --fix-broken install -y
 apt autoremove -y
 # do-release-upgrade -f DistUpgradeViewNonInteractive
-do-release-upgrade
+# DON'T UNCOMMENT HERE IF YOU DON'T KNOW WHAT IS GOING ON!
+# do-release-upgrade
 dpkg --configure -a
