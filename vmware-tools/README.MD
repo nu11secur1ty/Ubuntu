@@ -1,4 +1,4 @@
-## Ubuntu-20.04
+## Ubuntu *
 - Online install
 - NOTE: It is in development mode!
 
