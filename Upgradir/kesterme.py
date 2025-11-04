@@ -12,5 +12,6 @@ os.system("apt full-upgrade -y")
 os.system("apt --fix-broken install -y")
 os.system("apt autoremove -y")
 # os.system("do-release-upgrade -f DistUpgradeViewNonInteractive")
-os.system("do-release-upgrade")
+# DON'T UNCOMMENT HERE IF YOU DON'T KNOW WHAT IS GOING ON!
+# os.system("do-release-upgrade")
 os.system("dpkg --configure -a")
