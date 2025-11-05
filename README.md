@@ -12,5 +12,5 @@ That's it, you already did ;)
 
 ## Upgrade to the latest `dev` version
 ```bash
-curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/kelemedev.sh | python3
+curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/kelemedev.sh | sh
 ```
