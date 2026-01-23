@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/bash
 # Author @nu11secur1ty
 # UP to last DEV Env
 
@@ -9,7 +9,8 @@ apt upgrade -y
 apt dist-upgrade -y
 apt --fix-broken install -y
 apt autoremove -y
-# do-release-upgrade -f DistUpgradeViewNonInteractive
+
 # DON'T UNCOMMENT HERE IF YOU DON'T KNOW WHAT IS GOING ON!
 # do-release-upgrade
+# do-release-upgrade -f DistUpgradeViewNonInteractive
 dpkg --configure -a
