@@ -15,7 +15,7 @@ That's it, you already did ;)
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/kelemedev.sh | sh
 ```
 
-### Upgrade to the latest version
+### Upgrade to the latest version - open version!
 - READ first before you start!
 ```
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/refs/heads/master/Upgradir/latest_release.sh | sh
