@@ -16,3 +16,7 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/ke
 ```
 
 ### Upgrade to the latest version
+- READ first before you start!
+```
+curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/refs/heads/master/Upgradir/latest_release.sh | sh
+```
