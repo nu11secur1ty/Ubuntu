@@ -14,3 +14,5 @@ That's it, you already did ;)
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Ubuntu/master/Upgradir/kelemedev.sh | sh
 ```
+
+### Upgrade to the latest version
